@@ -1,0 +1,75 @@
+.navComp {
+    background-color: #2C3D4F;
+}
+
+.nav-link {
+    color: #EE7738 !important;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-shadow: 0 0 10px black;
+}
+
+.nav-link:hover {
+    color: #e7ad8d !important;
+}
+
+.card {
+
+    max-width: 90%;
+    height: 80vh;
+    padding: 10px;
+    box-shadow: -4px 4px 12px black;
+    margin: 1rem;
+}
+
+.card img {
+    height: 150px;
+    max-width: 300px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-title span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 2rem;
+    padding-left: 20px;
+}
+
+.homeBG {
+    background-size: cover;
+    background-image: url('./media/bgbg.jpg');
+    min-height: 90vh;
+}
+#delBTN{
+    border-radius: 40px;
+    background-color: white;
+    color: blue;
+    border: 2px red solid;
+    transition: all 0.3s ;
+}
+#delBTN:hover{
+    border: 4px red solid;
+    transition: all 0.3s ;
+    color: black;
+}
+
+
+.footerComp {
+    background-color: #2C3D4F;
+    color: #F59D2A;
+}
+
+.footerComp-txt {
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+
+}
