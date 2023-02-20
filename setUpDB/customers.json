@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "63c98a4c056a5b8ebab549eb"
+  },
+  "email": "free@gmail.com",
+  "name": "free account",
+  "password": "$2a$10$0SnBcka/c1VSFekhCZBJbuEA3wQS2WWn0m6/16srZcp7viOq.ubFO",
+  "isBusinessAccount": false,
+  "createDate": {
+    "$date": {
+      "$numberLong": "1674152524124"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c98a6f056a5b8ebab549f1"
+  },
+  "email": "biz1@gmail.com",
+  "name": "biz account1",
+  "password": "$2a$10$OvFlSL3f0xkCB5Q2rfmrZu6TBj2G4uiejOZnvih9n804o2GjszFqS",
+  "isBusinessAccount": true,
+  "createDate": {
+    "$date": {
+      "$numberLong": "1674152559713"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c98eb5056a5b8ebab54a18"
+  },
+  "email": "biz2@gmail.com",
+  "name": "biz account2",
+  "password": "$2a$10$TSCZ3zA.tGSnbFe983JgMuvqHZLx0dmFHzGLKTe6akwd9FOydWHa6",
+  "isBusinessAccount": true,
+  "createDate": {
+    "$date": {
+      "$numberLong": "1674153653855"
+    }
+  },
+  "__v": 0
+}]
